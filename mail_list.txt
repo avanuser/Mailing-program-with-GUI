@@ -1,0 +1,3 @@
+Alex; alex@company_1.com
+Antonio; antonio@company_2.com
+everyone; info@company_3.com
