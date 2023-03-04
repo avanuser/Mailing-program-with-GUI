@@ -1,2 +1,2 @@
-# mailing
+# Mailing program
 Mailing program
