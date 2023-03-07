@@ -13,5 +13,7 @@ name3; addr3@company3.com
 A separate letter is sent to each addressee, which begins with a call by name.
 
 Please do not use it for spamming or other illegal activities.
+
 Do good deeds.
+
 Thank you.
