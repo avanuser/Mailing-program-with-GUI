@@ -17,3 +17,5 @@ Please do not use it for spamming or other illegal activities.
 Do good deeds.
 
 Thank you.
+
+![Mailing program](mailing_program.png)
