@@ -1,5 +1,5 @@
-# Mailing program
-Mailing program can be used for e-mail newsletters.
+# Mailing program with GUI (Python, Qt)
+The program can be used for e-mail newsletters.
 The list of names and addresses for distribution is stored in a plain text file in the format:
 
 name1; addr1@company1.com
